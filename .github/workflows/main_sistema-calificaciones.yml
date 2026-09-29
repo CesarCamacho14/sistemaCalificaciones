@@ -30,4 +30,4 @@ jobs:
         with:
           app-name: 'sistema-calificaciones'
           slot-name: 'Production'
-          package: .
+          package: ./public_html
